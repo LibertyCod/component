@@ -1,0 +1,2 @@
+# component
+fast build project
